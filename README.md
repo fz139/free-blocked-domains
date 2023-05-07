@@ -1,4 +1,4 @@
-# Blocked bu expired domains
+# Blocked but expired domains
 
 A collection of expired domains previously blocked by Russia's Roskomnadzor, now available for free registration. Reclaim the web! 🌐🔓
 
