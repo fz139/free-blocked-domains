@@ -43,3 +43,7 @@ We sure that thos history must be public. So we've decided to publish this archi
 * [Реестр бесплатных объявлений 149-ФЗ.801](https://usher2.club/articles/msg-digitalresistance/)
 
 Мы уверены, что эта история должна быть общедоступной. Поэтому мы решили опубликовать этот архив.
+
+---
+[![UNLICENSE](noc.png)](UNLICENSE)
+
